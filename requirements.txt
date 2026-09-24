@@ -1,4 +1,4 @@
-pyTelegramBotAPI
-requests
+python-telegram-bot>=20.0
 aiohttp
 PyPDF2
+requests
